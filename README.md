@@ -5,7 +5,7 @@
 
 🌐 SMM:WE 2.0.0 port for browsers with HTML5 capabilities.
 
-🎮 Playable at https://hexp.es/smmwe-onlinev2
+🎮 Playable at https://smmwe-exp.github.io/smmwe-onlinev2
 
 ## ❌ Known Issues
 - 📦 Object bar doesn't dissapear after clicking the "Play" button in the editor for the second time
