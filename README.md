@@ -1,6 +1,6 @@
 # 🎮 SMM:WE Online (V2)
 <p align="center">
-  <img src="https://hexp.es/smmwe-onlinev2/assets/banner_deco.png" />
+  <img src="https://smmwe-exp.github.io/smmwe-onlinev2/assets/banner_deco.png" />
 </p>
 
 🌐 SMM:WE 2.0.0 port for browsers with HTML5 capabilities.
